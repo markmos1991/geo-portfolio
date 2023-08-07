@@ -3,7 +3,7 @@ import React from 'react';
 const Projects = [
   
     {
-      id: 2,
+      id: 1,
       link: '/KFC',
       imageUrl: '/path/to/project2-image.jpg',
     },
@@ -13,47 +13,47 @@ const Projects = [
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 3,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 4,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 5,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 6,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 7,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 8,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 9,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 10,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
       {
-        id: 2,
+        id: 11,
         link: '/KFC',
         imageUrl: '/path/to/project2-image.jpg',
       },
