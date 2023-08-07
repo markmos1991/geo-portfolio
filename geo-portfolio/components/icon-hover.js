@@ -5,11 +5,9 @@ export const IconHover = ({ children }) => (
     <>
    
    <motion.button
-  whileHover={{
-    scale: 1.2,
-    transition: { duration: 1 },
-  }}
-  whileTap={{ scale: 0.9 }}
+ whileHover={{ scale: 1.2 }}
+ onHoverStart={e => {}}
+ onHoverEnd={e => {}}
 >
        
         {children}

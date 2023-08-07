@@ -5,58 +5,79 @@ const Projects = [
     {
       id: 1,
       link: '/KFC',
-      imageUrl: '/path/to/project2-image.jpg',
+      imageUrl: '/assets/images/logos/KFClogo.png',
     },
     {
         id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/Jameson',
+        imageUrl: '/assets/images/logos/Jameson.png',
       },
       {
         id: 3,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/WELLA',
+        imageUrl: '/assets/images/logos/Wellalogo.png',
       },
       {
         id: 4,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/Graze',
+        imageUrl: '/assets/images/logos/Grazelogo.png',
       },
       {
         id: 5,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/OldElPasso',
+        imageUrl: '/assets/images/logos/OldElPaso.png',
       },
       {
         id: 6,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/TikTok',
+        imageUrl: '/assets/images/logos/TikToklogo4.png',
       },
       {
         id: 7,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/Arla',
+        imageUrl: '/assets/images/logos/Arla.png',
       },
       {
         id: 8,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/Ninja',
+        imageUrl: '/assets/images/logos/NINJA.png',
       },
       {
         id: 9,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/gyro',
+        imageUrl: '/assets/images/logos/Gyrologo.png',
       },
       {
         id: 10,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/GDK',
+        imageUrl: '/assets/images/logos/GDK.png',
       },
       {
         id: 11,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: 'schoolofthought',
+        imageUrl: '/assets/images/logos/SOT.png',
       },
+      {
+        id: 12,
+        link: 'oneminbriefs',
+        imageUrl: '/assets/images/logos/OMB.png',
+      },
+      {
+        id: 13,
+        link: '48hfilm',
+        imageUrl: '/assets/images/logos/48HFILM.png',
+      },
+      {
+        id: 14,
+        link: 'fullofbeans',
+        imageUrl: '/assets/images/logos/Fullofbeans.png',
+      },
+      {
+        id: 14,
+        link: 'drimpeppered',
+        imageUrl: '/assets/images/logos/DrImPeppered.png',
+      },
+   
    
   ];
   
