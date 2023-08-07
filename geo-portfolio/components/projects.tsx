@@ -3,60 +3,81 @@ import React from 'react';
 const Projects = [
   
     {
-      id: 2,
+      id: 1,
       link: '/KFC',
-      imageUrl: '/path/to/project2-image.jpg',
+      imageUrl: '/assets/images/logos/KFClogo.png',
     },
     {
         id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        link: '/Jameson',
+        imageUrl: '/assets/images/logos/Jameson.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 3,
+        link: '/WELLA',
+        imageUrl: '/assets/images/logos/Wellalogo.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 4,
+        link: '/Graze',
+        imageUrl: '/assets/images/logos/Grazelogo.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 5,
+        link: '/OldElPasso',
+        imageUrl: '/assets/images/logos/OldElPaso.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 6,
+        link: '/TikTok',
+        imageUrl: '/assets/images/logos/TikToklogo4.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 7,
+        link: '/Arla',
+        imageUrl: '/assets/images/logos/Arla.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 8,
+        link: '/Ninja',
+        imageUrl: '/assets/images/logos/NINJA.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 9,
+        link: '/gyro',
+        imageUrl: '/assets/images/logos/Gyrologo.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 10,
+        link: '/GDK',
+        imageUrl: '/assets/images/logos/GDK.png',
       },
       {
-        id: 2,
-        link: '/KFC',
-        imageUrl: '/path/to/project2-image.jpg',
+        id: 11,
+        link: 'schoolofthought',
+        imageUrl: '/assets/images/logos/SOT.png',
       },
+      {
+        id: 12,
+        link: 'oneminbriefs',
+        imageUrl: '/assets/images/logos/OMB.png',
+      },
+      {
+        id: 13,
+        link: '48hfilm',
+        imageUrl: '/assets/images/logos/48HFILM.png',
+      },
+      {
+        id: 14,
+        link: 'fullofbeans',
+        imageUrl: '/assets/images/logos/Fullofbeans.png',
+      },
+      {
+        id: 14,
+        link: 'drimpeppered',
+        imageUrl: '/assets/images/logos/DrImPeppered.png',
+      },
+   
    
   ];
   
