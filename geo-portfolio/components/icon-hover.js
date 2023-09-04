@@ -1,5 +1,6 @@
 "use client";
-import {motion, AnimatePresence} from 'framer-motion';
+import { useRef } from "react";
+import {motion, useInView, AnimatePresence} from 'framer-motion';
 
 export const IconHover = ({ children }) => (
     <>

@@ -1,10 +1,11 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Patrick_Hand } from 'next/font/google'
 import Nav from '../components/nav';
 
 
-const inter = Inter({ subsets: ['latin'] })
+const paddy = Patrick_Hand({ weight: '400',
+subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -18,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={paddy.className}>
         <Nav />
 
         {children}
