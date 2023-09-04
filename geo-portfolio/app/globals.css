@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-paper-background min-h-screen bg-center;
+    @apply bg-paper-background object-fill min-h-screen lg:bg-cover;
   }
 };
