@@ -1,4 +1,4 @@
-import type { Config } from 'tailwindcss'
+import type { Config } from 'tailwindcss';
 
 const config: Config = {
   content: [
@@ -9,11 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-       'paper-background': "url('../public/assets/images/Paper-background.svg')"
-       
+        'paper-background': "url('/assets/images/Paper-background.svg')", // Corrected path
       },
     },
   },
   plugins: [],
-}
-export default config
+};
+
+export default config;
